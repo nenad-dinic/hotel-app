@@ -1,0 +1,6 @@
+111111,Hotel Test,Test Adresa 36,da,da,10.0
+111112,Hotel Fontana,Nikole Pesica 27,ne,da,9.3
+111113,Hotel Dash,Vrsacka 11,da,da,8.4
+111114,Hotel Centar,Uspenska 1,ne,da,9.2
+111115,Hotel Veliki,Nikole Pesica 24,ne,da,9.0
+111116,Hotel Park,Novosadskog sajma 35,da,da,8.3

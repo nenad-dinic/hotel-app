@@ -1,0 +1,7 @@
+nenadd,lozinka123,nenad,dinic,069696969,nenad@gmail.com,administrator,0
+test,test123,Test,Testic,066666666,test@test.test,korisnik,0
+nikolan,n123,Nikola,Nikolic,06222222,nnikolic@gmail.com,recepcioner,111112
+stefans,s123,Stefan,Stefanovic,06111111,sstefanovic@gmail.com,recepcioner,111113
+petarp,p123,Petar,Petrovic,06333333,ppetrovic@gmail.com,recepcioner,111114
+markom,m123,Marko,Markovic,06444444,mmarkovic@gmail.com,recepcioner,111115
+misam,m123,Misa,Misic,061231234,mmisic@gmail.com,korisnik,0

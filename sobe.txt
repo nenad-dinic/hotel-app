@@ -1,0 +1,13 @@
+111111,1,2,apartman,da,da,20$
+111112,1,1,jedna soba,da,da,4940 RSD
+111112,2,4,jedna soba,da,da,7050 RSD
+111112,3,3,apartman,da,da,11170 RSD
+111113,1,2,jedna soba,da,da,3140 RSD
+111113,2,2,jedna soba,da,da,4600 RSD
+111113,3,1,apartman,da,da,7715 RSD
+111114,1,1,jedna soba,da,da,7060 RSD
+111114,2,1,jedna soba,da,da,9410 RSD
+111114,3,2,jedna soba,da,da,8470 RSD
+111115,1,1,jedna soba,da,da,4940 RSD
+111115,2,3,apartman,da,da,8700 RSD
+111115,3,3,apartman,da,da,10350 RSD
